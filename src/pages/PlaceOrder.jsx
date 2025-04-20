@@ -20,7 +20,7 @@ const {navigate} = useContext(ShopContext);
             </div>
             <div className='flex gap-3'>
                 <input className='border border-gray-300 rounded py-1.5 px-3.5 w-full' type="text" placeholder='First Name'/>
-                <input className='border border-gray-300 rounded py-1.5 px-3.5 w-full' type="text" placeholder='Lirst Name'/>
+                <input className='border border-gray-300 rounded py-1.5 px-3.5 w-full' type="text" placeholder='Last Name'/>
             </div>
             <input className='border border-gray-300 rounded py-1.5 px-3.5 w-full' type="email" placeholder='Email Address'/>
             <input className='border border-gray-300 rounded py-1.5 px-3.5 w-full' type="text" placeholder='Street'/>
